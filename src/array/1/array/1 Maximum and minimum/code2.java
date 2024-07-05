@@ -15,7 +15,6 @@ public class code2 {
         Arrays.sort(arr);
         obj.min = arr[0];
         obj.max = arr[n - 1];
-
         return obj;
 
     }
